@@ -1,5 +1,20 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahns1201&theme=dark&show_icons=true)
+**Hi!**  👋🏽
+I'm front-end developer. I enjoy to think and make a code with pen.
+Now worked at Seoul. 🏢
 
+
+### Skills
+![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js)
+![Node](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=ffffff)
+![Serverless](https://img.shields.io/badge/-Serverless-red?style=flat&logo=serverless)
+![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
+
+### Studying
+![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=ff0000)
+![Spring](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=ffffff)
 
 <!--
 **mahns1201/mahns1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

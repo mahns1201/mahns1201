@@ -1,5 +1,6 @@
-## Hello, I'm minhyeok.👋🏽
+## Hello, minhyeok! 👋🏽
 <p><b>Front-end developer. I enjoy to think and make a code with a pen.</b></p>
+<p>Striving to be a back-end developer</p>
 <p>🏢 Worked at Seoul.</p>
 
 <br />

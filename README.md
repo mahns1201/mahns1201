@@ -1,9 +1,11 @@
-## Hello, 👋🏽
-<p>I'm front-end developer. I enjoy to think and make a code with pen.</p>
+## Hello, I'm minhyeok.👋🏽
+<p>**Front-end developer. I enjoy to think and make a code with a pen.**</p>
 <p>🏢 Worked at Seoul.</p>
 
+<br />
+<br />
 
-### Skills
+#### Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-ff69b4?style=flat&logo=sass&logoColor=ffffff)
@@ -13,7 +15,7 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-red?style=flat&logo=serverless)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
 
-### Studying
+#### Studying
 ![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=ff0000)
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=ffffff)
 

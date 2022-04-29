@@ -1,8 +1,8 @@
 ## Hello, minhyeok! 👋🏽
 #### Front-end developer. I enjoy to think and make a code with a pen.
 <br />
-<p>🖍 Striving to be a back-end developer.</p>
-<p>🏢 Worked at Seoul.</p>
+<p>🖊 Striving to be a back-end developer.</p>
+<p>🏢 Work in Seoul.</p>
 
 <br />
 <br />

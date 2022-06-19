@@ -10,12 +10,13 @@
 
 <div align=center>
 
+  
 ### 👨🏽‍💻 Skills
 
 ![Node](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=ffffff)
 ![Nest](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestJs&logoColor=FF0000)
 ![Serverless](https://img.shields.io/badge/-Serverless-red?style=flat&logo=serverless)
-![mySQL](https://img.shields.io/badge/-mySQL-gray?style=flat&logo=mysql&logoColor=ffffff)
+![mySQL](https://img.shields.io/badge/-mySQL-00758f?style=flat&logo=mysql&logoColor=ffffff)
 
 ![Vue](https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js)
 ![SCSS](https://img.shields.io/badge/-SCSS-ff69b4?style=flat&logo=sass&logoColor=ffffff)

@@ -22,8 +22,6 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-ff69b4?style=flat&logo=sass&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat&logo=TailwindCSS)
 
-#### g
-
 </div>
 
 <div align=center>

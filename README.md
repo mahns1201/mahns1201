@@ -1,6 +1,6 @@
-### Hello, minhyeok! 👋🏽
-
 <div align=center>
+
+### Hello, minhyeok! 👋🏽
 
 쓰임새 있는 백엔드 개발자, 서민혁입니다.
 <br>
@@ -11,11 +11,10 @@
 </div>
 
 <br>
-<br>
-
-### Skills
 
 <div align=center>
+
+### Skills
 
 #### BACK-END
 
@@ -23,8 +22,6 @@
 ![Nest](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestJs&logoColor=FF0000)
 ![Serverless](https://img.shields.io/badge/-Serverless-red?style=flat&logo=serverless)
 
-<br>
-  
 #### FRONT-END
 
 ![Vue](https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js)
@@ -33,8 +30,6 @@
 
 </div>
 
-<br>
-<br>
 <br>
 
 <div align=center>

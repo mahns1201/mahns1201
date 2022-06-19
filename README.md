@@ -3,7 +3,9 @@
 ### Hello, minhyeok! 👋🏽
 
 쓰임새 있는 백엔드 개발자, 서민혁입니다.
+<br>
 백엔드에 집중하고 있지만, 풀스택을 지향합니다.
+<br>
 현재는 엔지니어로서 성장에 초점을 두고 있습니다.
 
 </div>
@@ -16,6 +18,10 @@
 ![Nest](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestJs&logoColor=FF0000)
 ![Serverless](https://img.shields.io/badge/-Serverless-red?style=flat&logo=serverless)
 
+<br>
+<br>
+<br>
+  
 #### FRONT-END
 
 ![Vue](https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js)
@@ -23,6 +29,10 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat&logo=TailwindCSS)
 
 </div>
+
+<br>
+<br>
+<br>
 
 <div align=center>
 

@@ -3,7 +3,6 @@
 ### hello, minhyeok! 👋🏽
 
 <p>NodeJS / Java & Spring 백엔드 개발자 서민혁입니다.</p>
-<p>엔지니어로서 성장에 초점을 두고 있습니다.</p>
 
 </div>
 
@@ -25,7 +24,7 @@
 
 <!--
 <div align=center>
-
+<p>엔지니어로서 성장에 초점을 두고 있습니다.</p>
 [![mahns's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahns1201&title_color=FF0000&bg_color=262626&text_color=ffffff&show_icons=true&icon_color=fdf42a&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

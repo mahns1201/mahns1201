@@ -19,7 +19,8 @@
 ![mySQL](https://img.shields.io/badge/-mySQL-gray?style=flat&logo=mysql&logoColor=00758f)
 ![mongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
 ![aws](https://img.shields.io/badge/-AWS-yellow?style=flat&logo=AmazonAWS)
-![Serverless](https://img.shields.io/badge/-Serverless-red?style=flat&logo=serverless)  
+![Serverless](https://img.shields.io/badge/-Serverless-red?style=flat&logo=serverless)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-red?style=flat&logo=rabbitmq)
 </div>
 
 <!--

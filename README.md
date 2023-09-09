@@ -16,16 +16,16 @@
 ![nest](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestJs&logoColor=E0234E)
 ![spring](https://img.shields.io/badge/-Spring-6CB52C?style=flat&logo=Spring&logoColor=ffffff)
 
-![mySQL](https://img.shields.io/badge/-mySQL-white?style=flat&logo=mysql&logoColor=00758F)
-![mongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb&logoColor=4FA33E)
+![mySQL](https://img.shields.io/badge/-mySQL-00758F?style=flat&logo=mysql&logoColor=F29111)
+![mongoDB](https://img.shields.io/badge/-MongoDB-4FA33E?style=flat&logo=mongodb&logoColor=ffffff)
 ![redis](https://img.shields.io/badge/-Redis-161F32?style=flat&logo=redis&logoColor=BF2F27)
-![docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&logo=docker&logoColor=1D63ED)
-![rabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat&logo=rabbitmq&logoColor=FF6600)
+![docker](https://img.shields.io/badge/-Docker-1D63ED?style=flat&logo=docker&logoColor)
+![rabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=ffffff)
 ![aws](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=CC8132)
 
-![git](https://img.shields.io/badge/-Git-F0F0E8?style=flat&logo=git&logoColor=F34C28)
+![git](https://img.shields.io/badge/-Git-F34C28?style=flat&logo=git&logoColor=F0F0E8)
 ![github](https://img.shields.io/badge/-Github-1C2127?style=flat&logo=github&logoColor=ADBAC7)
-![jira](https://img.shields.io/badge/-Jira-ffffff?style=flat&logo=jira&logoColor=0561DB)
+![jira](https://img.shields.io/badge/-Jira-0561DB?style=flat&logo=jira)
 ![slack](https://img.shields.io/badge/-Slack-541555?style=flat&logo=slack&logoColor=ECB22E)
 
 

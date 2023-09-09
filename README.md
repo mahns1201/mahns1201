@@ -12,15 +12,23 @@
 
 ### 👨🏽‍💻
 
-![Node](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=ffffff)
-![Nest](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestJs&logoColor=FF0000)
-![Spring](https://img.shields.io/badge/-Spring-green?style=flat&logo=Spring)
+![node](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=ffffff)
+![nest](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestJs&logoColor=E0234E)
+![spring](https://img.shields.io/badge/-Spring-6CB52C?style=flat&logo=Spring&logoColor=ffffff)
 
-![mySQL](https://img.shields.io/badge/-mySQL-gray?style=flat&logo=mysql&logoColor=00758f)
-![mongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
-![aws](https://img.shields.io/badge/-AWS-yellow?style=flat&logo=AmazonAWS)
-![Serverless](https://img.shields.io/badge/-Serverless-red?style=flat&logo=serverless)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-red?style=flat&logo=rabbitmq)
+![mySQL](https://img.shields.io/badge/-mySQL-white?style=flat&logo=mysql&logoColor=00758F)
+![mongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb&logoColor=4FA33E)
+![redis](https://img.shields.io/badge/-Redis-161F32?style=flat&logo=redis&logoColor=BF2F27)
+![docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&logo=docker&logoColor=1D63ED)
+![rabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat&logo=rabbitmq&logoColor=FF6600)
+![aws](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=CC8132)
+
+![git](https://img.shields.io/badge/-Git-F0F0E8?style=flat&logo=git&logoColor=F34C28)
+![github](https://img.shields.io/badge/-Github-1C2127?style=flat&logo=github&logoColor=ADBAC7)
+![jira](https://img.shields.io/badge/-Jira-ffffff?style=flat&logo=jira&logoColor=0561DB)
+![slack](https://img.shields.io/badge/-Slack-541555?style=flat&logo=slack&logoColor=ECB22E)
+
+
 </div>
 
 <!--

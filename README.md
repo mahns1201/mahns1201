@@ -13,7 +13,7 @@
 ### 👨🏽‍💻
 
 ![node](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=ffffff)
-![nest](https://img.shields.io/badge/-Nest.js-black?style=flat&logo=nestJs&logoColor=E0234E)
+![nest](https://img.shields.io/badge/-Nest.js-0E0E0F?style=flat&logo=nestJs&logoColor=E0234E)
 ![spring](https://img.shields.io/badge/-Spring-6CB52C?style=flat&logo=Spring&logoColor=ffffff)
 
 ![mySQL](https://img.shields.io/badge/-mySQL-00758F?style=flat&logo=mysql&logoColor=F29111)

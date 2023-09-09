@@ -2,7 +2,7 @@
 
 ### hello, minhyeok! 👋🏽
 
-<p>NodeJS / Java & Spring 백엔드 개발자 서민혁입니다.</p>
+<p>JS, TS / Java & Spring 백엔드 개발자 서민혁입니다.</p>
 
 </div>
 

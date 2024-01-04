@@ -29,6 +29,7 @@
 ![slack](https://img.shields.io/badge/-Slack-541555?style=flat&logo=slack&logoColor=ECB22E)
 
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky300z)](https://solved.ac/sky300z/)
 
 </div>

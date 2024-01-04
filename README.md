@@ -11,7 +11,7 @@
 <br>
 
 [![mahns's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahns1201&title_color=FF0000&bg_color=262626&text_color=ffffff&show_icons=true&icon_color=fdf42a&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky300z)](https://solved.ac/sky300z/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky300z)](https://solved.ac/sky300z/)
 
 ### 👨🏽‍💻
 

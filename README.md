@@ -10,9 +10,6 @@
 
 <br>
 
-[![mahns's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahns1201&title_color=FF0000&bg_color=262626&text_color=ffffff&show_icons=true&icon_color=fdf42a&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky300z)](https://solved.ac/sky300z/)
-
 ### 👨🏽‍💻
 
 ![node](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=ffffff)
@@ -31,6 +28,8 @@
 ![jira](https://img.shields.io/badge/-Jira-0561DB?style=flat&logo=jira)
 ![slack](https://img.shields.io/badge/-Slack-541555?style=flat&logo=slack&logoColor=ECB22E)
 
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky300z)](https://solved.ac/sky300z/)
 
 </div>
 
@@ -38,7 +37,6 @@
 <div align=center>
 <p>엔지니어로서 성장에 초점을 두고 있습니다.</p>
 [![mahns's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahns1201&title_color=FF0000&bg_color=262626&text_color=ffffff&show_icons=true&icon_color=fdf42a&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 [https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js)
